@@ -1,9 +1,7 @@
-# README
+#README
 
-Our first hello world application in Ruby on Rails.
+## Lessons for this course:
 
-How to guides
-
-1. How to install Ruby
-2. How to install Rails
-3. Using a cloud IDE
+1. Installation & setup checklist
+2. Process to install Ruby on Rails on a Mac
+3. Create a hello world application
